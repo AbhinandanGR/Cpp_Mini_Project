@@ -44,6 +44,7 @@ class Student{
 			cout << "\t\tAge : " << age << endl;
 		}
 };
+
 // Creating function to add new student
 void addNewStudent(vector<Student> &students){
 	int rollno,age;
@@ -170,6 +171,7 @@ void deleteStudent(vector<Student>& students){
 	cout << "\t\tNo Student Found..." << endl;
 }
 
+
 int main(){
 
 	vector<Student> students;
@@ -218,7 +220,6 @@ int main(){
 		cout << "\t\tDo You Want To Continue [Y/N] ? : ";
 		cin >> choice;
 	}while(toupper(choice) == 'Y');
-	
 	
 	return 0;
 }
