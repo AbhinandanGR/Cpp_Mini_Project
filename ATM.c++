@@ -104,7 +104,7 @@ int main(){
 				break;
 			case 5 :
 				cout << "THANKS FOR USING ATM" << endl;
-				break;
+				eixt(0);
 			default :
 				cout << "!!Invalid Choice..." << endl;
 				break;
