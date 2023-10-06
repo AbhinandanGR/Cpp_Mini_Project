@@ -176,7 +176,7 @@ int main(){
 
 	vector<Student> students;
 	
-	students.push_back(Student(1, "Abhi", 19));
+	//students.push_back(Student(1, "Abhi", 19));
 	int op;
 	char choice;
 	do{
