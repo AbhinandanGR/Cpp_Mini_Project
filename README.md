@@ -14,3 +14,6 @@ This is a simple console-based User Management System implemented in C++. It all
 <br>
 # --> Simple SGPA Calculator(sgpa.c++)
 This is a simple C++ program that calculates the Semester Grade Point Average (SGPA) based on the grades, credits, and subjects entered by the user. It allows you to input subject names, credits, and grades, and then computes the SGPA accordingly. The program also checks for invalid grades and handles the case when a student fails a subject. Feel free to use and modify this program for your educational purposes.
+<br>
+# --> Student Management System(student_management)
+This C++ program implements a simple Student Management System. It allows users to add, display, search, update, and delete student records. Students' information includes roll number, name, and age. The program provides an interactive command-line interface for managing student data. It can be used as a foundation for more complex student management systems or educational projects. Feel free to use and modify it to suit your needs.
