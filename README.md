@@ -11,3 +11,6 @@ This C++ program, titled "Simple C++ Digital Clock Display," allows users to inp
 <br>
 # --> Simple User Management System(registratio_form.c++)
 This is a simple console-based User Management System implemented in C++. It allows users to register, login, view a list of users, search for users, and delete users. Users' information, including usernames and passwords, is stored in memory. This project is a basic example of user management and can be used as a starting point for more complex applications. Feel free to use and modify it as needed.
+<br>
+# --> Simple SGPA Calculator(sgpa.c++)
+This is a simple C++ program that calculates the Semester Grade Point Average (SGPA) based on the grades, credits, and subjects entered by the user. It allows you to input subject names, credits, and grades, and then computes the SGPA accordingly. The program also checks for invalid grades and handles the case when a student fails a subject. Feel free to use and modify this program for your educational purposes.
